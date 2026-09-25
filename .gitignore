@@ -1,0 +1,57 @@
+# Local settings and credentials
+config.json
+config.local*.json
+.env
+.env.*
+
+# Environments and caches
+.venv/
+venv/
+vendor/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.log
+*.sqlite*
+
+# Archive metadata and render products
+output/
+outputs/
+work/
+.segments/
+catalog.json
+*selection*.csv
+candidates.csv
+needs-attention.csv
+highlight-audit.json
+*.signature
+
+# Media and binary distributions
+*.mp4
+*.mov
+*.MP4
+*.MOV
+*.mkv
+*.avi
+*.m4v
+*.mts
+*.m2ts
+*.3gp
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.heif
+*.JPG
+*.JPEG
+*.PNG
+*.HEIC
+*.HEIF
+*.tif
+*.tiff
+*.webp
+*.zip
+bin/*.exe
+bin/*.dll
+Thumbs.db
+.DS_Store

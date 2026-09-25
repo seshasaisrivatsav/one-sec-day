@@ -1,0 +1,26 @@
+{
+  "sources": [
+    {
+      "type": "mobile",
+      "path": "D:/REPLACE_WITH_PHONE_ARCHIVE",
+      "timezone": "America/Chicago",
+      "video_clock": "utc"
+    },
+    {
+      "type": "camera",
+      "path": "D:/REPLACE_WITH_CAMERA_ARCHIVE",
+      "timezone": "America/Chicago",
+      "video_clock": "local"
+    }
+  ],
+  "output": "D:/one-sec-day-output",
+  "start_month": "2026-01",
+  "end_month": "2026-01",
+  "priority": "mobile-first",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "photo_zoom": 0.04,
+  "crf": 18,
+  "audio": true
+}

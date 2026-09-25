@@ -1,0 +1,6 @@
+Place ffmpeg.exe and ffprobe.exe from a full Windows FFmpeg build in this folder.
+Alternatively, put their containing folder on your Windows PATH.
+
+Official download page: https://ffmpeg.org/download.html
+Follow its Windows build links. The full build must include libx264, zscale and tonemap.
+No binaries are bundled in this package.
